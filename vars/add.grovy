@@ -1,0 +1,5 @@
+def call ()
+{
+add (a,b)
+c=a+b;
+}
